@@ -1,0 +1,91 @@
+*{
+	font-family:Century Gothic;
+	color:#ffffff;
+}
+
+p{
+	text-align: justify;
+}
+
+div.cabecalho{
+	margin-left:12.5%;
+	margin-right:12.5%;
+	background-color:#3b284b;
+    border-radius: 20px;
+}
+
+div.corpo{
+	margin-left:12.5%;
+	margin-right:12.5%;
+	padding: 2.5%;
+	padding-left: 5%;
+	padding-right: 5%;
+	background-color:#614f7c;
+	border-radius: 20px;
+}
+
+table.escolinhas{
+	width: 900px;
+}
+
+hr{
+	margin-left:12.5%;
+	margin-right:12.5%;
+	background-color:#3b284b;
+	border-radius:20px;
+}
+
+label.titulo{
+	color:#ffffff;
+	font-family:Century Gothic;
+	font-size:50px;
+	margin-bottom:1%;
+}
+
+label.subtitulo{
+	color:#f8f8f8;
+	font-family:Century Gothic;
+	font-size:15px;
+}
+
+img{
+	align:right;
+	width: 400px;
+	border-radius:20px;
+}
+
+nav{
+	margin-left:12.5%;
+	margin-right:12.5%;
+	border-radius:20px;
+	background-color: #3b284b;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding-left: 20;
+	overflow: hidden;
+}
+
+li {
+	border-radius:20x;
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a.pontas:hover {
+	background-color: #614f7c;
+	border-radius:20px;
+}
+li a.meio:hover {
+	background-color: #614f7c;
+}
